@@ -1,8 +1,8 @@
-**NAME:** R.SIVAPRASATH
-**COMPANY:** CODTECH IT SOLUTIONS 
-**ID:** CT08FAX
-**DOMAIN:** ARTIFICIAL INTELLIGENCE
-**DURATION:** 20TH DECEMBER 2024 TO 20TH JANUARY 2025
+**NAME:** R.SIVAPRASATH                                                                                                                                                              .
+**COMPANY:** CODTECH IT SOLUTIONS                                                                                                                                                    .
+**ID:** CT08FAX                                                                                                                                                                      .
+**DOMAIN:** ARTIFICIAL INTELLIGENCE                                                                                                                                                  .
+**DURATION:** 20TH DECEMBER 2024 TO 20TH JANUARY 2025                                                                                                                                .
 
 ###OVERVIEW OF THE PROJECT
 
